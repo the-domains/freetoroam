@@ -1,0 +1,14 @@
+name: 'FreeToRoam '
+layout_spectrum: 0.6352796537848627
+typography_spectrum: 0.3900183972436486
+color:
+  brandColors:
+    - '#E1E6FA'
+    - '#C4D7ED'
+    - '#ABC8E2'
+    - '#375D81'
+    - '#183152'
+  brandStrength: 0.7567195794569891
+  lightness: 0.1653066912154626
+  saturation: 0.17576835415254022
+  rhythmicContrast: 0.12794982809534294
